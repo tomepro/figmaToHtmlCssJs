@@ -1,0 +1,183 @@
+.menu {
+  background-color: #2f1893;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.menu .div {
+  background-color: #2f1893;
+  width: 1400px;
+  height: 750px;
+  position: relative;
+}
+
+.menu .overlap {
+  position: absolute;
+  width: 270px;
+  height: 212px;
+  top: 390px;
+  left: 1016px;
+}
+
+.menu .logo {
+  position: absolute;
+  width: 270px;
+  height: 160px;
+  top: 0;
+  left: 0;
+}
+
+.menu .overlap-group {
+  position: relative;
+  height: 160px;
+  border-radius: 5px;
+}
+
+.menu .ABC {
+  position: absolute;
+  width: 206px;
+  height: 148px;
+  top: 8px;
+  left: 32px;
+  object-fit: cover;
+}
+
+.menu .placeholder {
+  position: absolute;
+  width: 270px;
+  height: 160px;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  border: 2px solid;
+  border-color: var(--colors-white);
+  opacity: 0.15;
+}
+
+.menu .our-great-clients {
+  left: 43px;
+  position: absolute;
+  top: 160px;
+  font-family: var(--heading-h3-title-font-family);
+  font-weight: var(--heading-h3-title-font-weight);
+  color: var(--colors-white);
+  font-size: var(--heading-h3-title-font-size);
+  text-align: center;
+  letter-spacing: var(--heading-h3-title-letter-spacing);
+  line-height: var(--heading-h3-title-line-height);
+  white-space: nowrap;
+  font-style: var(--heading-h3-title-font-style);
+}
+
+.menu .overlap-2 {
+  position: absolute;
+  width: 270px;
+  height: 212px;
+  top: 390px;
+  left: 565px;
+}
+
+.menu .pincel {
+  position: absolute;
+  width: 196px;
+  height: 146px;
+  top: 8px;
+  left: 37px;
+  object-fit: cover;
+}
+
+.menu .text-wrapper {
+  left: 61px;
+  position: absolute;
+  top: 160px;
+  font-family: var(--heading-h3-title-font-family);
+  font-weight: var(--heading-h3-title-font-weight);
+  color: var(--colors-white);
+  font-size: var(--heading-h3-title-font-size);
+  text-align: center;
+  letter-spacing: var(--heading-h3-title-letter-spacing);
+  line-height: var(--heading-h3-title-line-height);
+  white-space: nowrap;
+  font-style: var(--heading-h3-title-font-style);
+}
+
+.menu .overlap-3 {
+  position: absolute;
+  width: 270px;
+  height: 212px;
+  top: 390px;
+  left: 115px;
+}
+
+.menu .pantalla {
+  position: absolute;
+  width: 189px;
+  height: 150px;
+  top: 4px;
+  left: 41px;
+  object-fit: cover;
+}
+
+.menu .our-great-clients-2 {
+  left: 70px;
+  position: absolute;
+  top: 160px;
+  font-family: var(--heading-h3-title-font-family);
+  font-weight: var(--heading-h3-title-font-weight);
+  color: var(--colors-white);
+  font-size: var(--heading-h3-title-font-size);
+  text-align: center;
+  letter-spacing: var(--heading-h3-title-letter-spacing);
+  line-height: var(--heading-h3-title-line-height);
+  white-space: nowrap;
+  font-style: var(--heading-h3-title-font-style);
+}
+
+.menu .title {
+  position: absolute;
+  width: 708px;
+  height: 137px;
+  top: 120px;
+  left: 349px;
+}
+
+.menu .startup-includes-gre {
+  position: absolute;
+  width: 702px;
+  top: 81px;
+  left: 0;
+  opacity: 0.7;
+  font-family: var(--text-article-font-family);
+  font-weight: var(--text-article-font-weight);
+  color: var(--colors-white);
+  font-size: var(--text-article-font-size);
+  text-align: center;
+  letter-spacing: var(--text-article-letter-spacing);
+  line-height: var(--text-article-line-height);
+  font-style: var(--text-article-font-style);
+}
+
+.menu .overlap-4 {
+  position: absolute;
+  width: 271px;
+  height: 52px;
+  top: 0;
+  left: 216px;
+}
+
+.menu .our-great-clients-3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: var(--heading-h3-title-font-family);
+  font-weight: var(--heading-h3-title-font-weight);
+  color: var(--colors-white);
+  font-size: var(--heading-h3-title-font-size);
+  text-align: center;
+  letter-spacing: var(--heading-h3-title-letter-spacing);
+  line-height: var(--heading-h3-title-line-height);
+  white-space: nowrap;
+  font-style: var(--heading-h3-title-font-style);
+}
